@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1739052776 source:c:\users\ammar\documents\programming journey\c programs\negating_systems\main.c
+	"header.h"
+
+1739052777 c:\users\ammar\documents\programming journey\c programs\negating_systems\header.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1739050849 source:c:\users\ammar\documents\programming journey\c programs\negating_systems\helpingfunctions.c
+	"header.h"
+
+1739053658 source:c:\users\ammar\documents\programming journey\c programs\negating_systems\signmethod.c
+	"header.h"
+
+1739053628 source:c:\users\ammar\documents\programming journey\c programs\negating_systems\onescompliment.c
+	"header.h"
+
+1739054240 source:c:\users\ammar\documents\programming journey\c programs\negating_systems\twoscompliment.c
+	"header.h"
+
